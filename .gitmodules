@@ -1,0 +1,7 @@
+[submodule "api"]
+  path = api
+  url = ./api
+
+[submodule "front"]
+  path = front
+  url = ./front

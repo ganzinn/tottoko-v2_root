@@ -1,6 +1,6 @@
 [submodule "api"]
-  path = api
-  url = git@github.com:ganzinn/tottoko-v2_api.git
+	path = api
+	url = git@github.com:ganzinn/tottoko-v2_api.git
 [submodule "front"]
-  path = front
-  url = git@github.com:ganzinn/tottoko-v2_front.git
+	path = front
+	url = git@github.com:ganzinn/tottoko-v2_front.git

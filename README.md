@@ -5,7 +5,7 @@ PCはもちろん、スマホからも扱いやすいUIにしています。<br>
 サービス名は「tottoko（トットコ）」<br>
 写真を「撮る」という意味と、残こしておくという意味での「とっておく」から命名。<br>
 
-<a href="https://tottoko.su-dx.com" target="_blank">https://tottoko.su-dx.com</a>（外部リンク）	
+<a href="https://tottoko.su-dx.com/about" target="_blank">https://tottoko.su-dx.com/about</a>
 
 
 # システム全体構成
